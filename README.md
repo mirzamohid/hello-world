@@ -1,2 +1,3 @@
 # hello-world
-This is myt first repository
+This is my first repository
+This is the collaboration way to code.
